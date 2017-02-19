@@ -1,3 +1,4 @@
+Главный репозиторий без заданий к проекту в университете: https://github.com/Festak/SellTable
 
 Платформа: ASP.NET MVC
 Клиентская часть: JQuery, Bootstrap, Angular.
